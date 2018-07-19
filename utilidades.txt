@@ -1,0 +1,13 @@
+UX: https://www.figma.com/file/Q5Kk5uEixpbG2nhNUH171fAu/Untitled?node-id=1%3A2
+
+Tipografias:
+
+Colores texto botonera: #FFFFFF
+Color fondo: #270015
+Triangulo ese: #C4C4C4
+Abajo del nombre Nahuel: #B3B3B3
+
+fuente: open sans (GF)
+
+Wireframe: https://wireframe.cc/EWNVgN
+
