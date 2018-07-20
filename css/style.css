@@ -47,10 +47,11 @@ main{
     margin: auto;
     padding-top: 30px;
     display: flex;
+    flex-flow: row wrap;
 }
 
-main izquierdo{
-    flex:1;
+main .izquierdo{
+    flex:3;
     height: auto;
 }
 
@@ -70,12 +71,18 @@ aside p{
 }
 
 main .galeria{
+    flex: 5;
     display: flex;
 }
 
 main .galeria img{
     padding-bottom: 40px;
     padding-left: 40px;
+    filter: blur(2px);
+}
+
+main .galeria img:hover {
+  filter: unset;
 }
 
 footer{
