@@ -51,6 +51,7 @@ main{
 }
 
 main .izquierdo{
+	position: relative;
     flex:3;
     height: auto;
 }
@@ -68,6 +69,18 @@ aside p{
     font-size: 26px;
     line-height: 1.5;
     color: #B3B3B3;
+}
+
+.arrow-right {
+	position: absolute;
+	bottom: 10rem;
+	left: -10rem;
+  width: 0; 
+  height: 0; 
+  border-top: 300px solid transparent;
+  border-bottom: 300px solid transparent;
+  
+  border-left: 400px solid green;
 }
 
 main .galeria{
